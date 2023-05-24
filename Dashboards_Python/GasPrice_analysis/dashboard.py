@@ -28,15 +28,15 @@ main_config = {
     "margin": {"l":0, "r":0, "t":10, "b":0}
 }
 
-template_theme1 = "flatly"
-template_theme2 = "vapor"
-url_theme1 = dbc.themes.FLATLY
-url_theme2 = dbc.themes.VAPOR
+template_theme1 = "slate"
+template_theme2 = "flatly"
+url_theme1 = dbc.themes.SLATE
+url_theme2 = dbc.themes.FLATLY
 
 
 # ===== Reading n cleaning File ====== #
 # Quando for gravar a aula, explicar todas as alterações no Jupyter lab e depois só colar pra cá.
-df_main = pd.read_csv("../base/gasprice.csv")
+df_main = pd.read_csv("./base/gasprice.csv")
 
 # memory usage tests
 #df_main.info()
@@ -127,10 +127,10 @@ app.layout = dbc.Container(children=[
                             dcc.Dropdown(
                                 id="select_ano",
                                 value=df_main.at[df_main.index[1],'ANO'],
-                                clearable = False,
+                                #clearable = True,
                                 options=[
                                     {"label": x, "value": x} for x in df_main.ANO.unique()
-                            ], style={'background-color': 'rgba(0, 0, 0, 0.3'}),
+                            ], style={'background-color': 'gray', 'color': 'black'}),
                         ], sm=6),
                         dbc.Col([
                             html.H6('Região de análise:'),
@@ -140,7 +140,7 @@ app.layout = dbc.Container(children=[
                                 clearable = False,
                                 options=[
                                     {"label": x, "value": x} for x in df_main.REGIÃO.unique()
-                            ], style={'background-color': 'rgba(0, 0, 0, 0.3'}),
+                            ], style={'background-color': 'gray', 'color': 'black'}),
                         ], sm=6)
                     ]),
                     dbc.Row([
@@ -166,13 +166,13 @@ app.layout = dbc.Container(children=[
                     dbc.Row([
                         dbc.Col([
                                 dcc.Dropdown(
-                                id="select_estados0",
-                                value=[df_main.at[df_main.index[3],'ESTADO'], df_main.at[df_main.index[13],'ESTADO'], df_main.at[df_main.index[6],'ESTADO']],
-                                clearable = False,
-                                multi=True,
-                                options=[
-                                    {"label": x, "value": x} for x in df_main.ESTADO.unique()
-                                ], style={'background-color': 'rgba(0, 0, 0, 0.3'}),
+                                    id="select_estados0",
+                                    value=[df_main.at[df_main.index[3],'ESTADO'], df_main.at[df_main.index[13],'ESTADO'], df_main.at[df_main.index[6],'ESTADO']],
+                                    clearable = False,
+                                    multi=True,
+                                    options=[{"label": x, "value": x} for x in df_main.ESTADO.unique()],
+                                    style={'background-color': 'gray', 'color': 'black'}
+                                ),
                         ], sm=10),
                     ]),
                     dcc.Graph(id='animation_graph', config={"displayModeBar": False, "showTips": False})
@@ -192,7 +192,7 @@ app.layout = dbc.Container(children=[
                                 clearable = False,
                                 options=[
                                     {"label": x, "value": x} for x in df_main.ESTADO.unique()
-                            ], style={'background-color': 'rgba(0, 0, 0, 0.3'}),
+                            ], style={'background-color': 'gray', 'color': 'black'}),
                         ], sm=10, md=5),
                         dbc.Col([
                             dcc.Dropdown(
@@ -201,7 +201,7 @@ app.layout = dbc.Container(children=[
                                 clearable = False,
                                 options=[
                                     {"label": x, "value": x} for x in df_main.ESTADO.unique()
-                            ], style={'background-color': 'rgba(0, 0, 0, 0.3'}),
+                            ], style={'background-color': 'gray', 'color': 'black'}),
                         ], sm=10, md=6),
                     ], style={'margin-top': '20px'}, justify='center'),
                     dcc.Graph(id='direct_comparison_graph', config={"displayModeBar": False, "showTips": False}),
