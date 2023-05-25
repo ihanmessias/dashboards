@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/0f8d2afc-4e93-41c3-b667-e566920efa20" alt="PROJETO SALES_site_dark" width="1920" height="800">
+<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/0f8d2afc-4e93-41c3-b667-e566920efa20" alt="PROJETO SALES_site_dark">
 </p>
 
 # 🦠 Covid-19 Analysis Dash
