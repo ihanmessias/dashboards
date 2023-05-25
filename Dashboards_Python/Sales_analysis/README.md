@@ -1,8 +1,8 @@
-![PROJETO SALES_site_dark](https://user-images.githubusercontent.com/103602522/175695715-76b513e9-cd4d-4927-9681-a815555d88cf.jpg)
+<p align="center">
+<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/e2f2aaa2-6be3-41fc-a91e-966393e79528" alt="PROJETO SALES">
+</p>
 
-
-# Sales Analysis Dash
-
+# 🧮 Sales Analysis Dash
 Dashboard para análise de métricas e vendas de um call center feito com Python.
 
 ## 🔧 Funções
@@ -12,18 +12,16 @@ Dashboard para análise de métricas e vendas de um call center feito com Python
 - Possibilidade de alternar entre o tema claro e escuro do layout
 
 
-## 💻 Projeto
-Para ver as aulas do desenvolvimento do projeto completo em vídeo:
-
-<a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Aulas%20do%20projeto-lightgrey" target="_blank"></a> 
-
 Para ver o projeto em tempo real:
 
-<a href = "https://sales-analysis-dash.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
+<a href = "https://sales-analysis-dash.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank">
+</a> 
+
 
 ## 👨‍💻 Tecnologias Utilizadas
 
 Utilizando apenas **PYTHON** e as bibliotecas:
+
 > - Dash
 > - Dash-Core-Components
 > - Dash HTML
@@ -31,23 +29,19 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 > - Plotly
 > - Pandas
 
-
-## 📜 Conteúdo
-Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação de Web Apps e Dashboards, acesse:
+## 📜 Nota
+Projeto desenvolvido pela Asimov Academy:
 
 <a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
 
 ### 🤝 Suporte/Contato
 
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/61996487935)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devlinuxtv/)
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551981830833)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asimov.academy/)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2Nc7bxvk7)
-
-✉ contato@asimov.academy
+✉ ihanmessias.dev@gmail.com
 
 
 
 
-<p align="center">Copyright © 2022 Asimov Academy</p>
-
+<p align="center">Ihan Messias Nascimento Dos Santos</p>
