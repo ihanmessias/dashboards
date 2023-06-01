@@ -22,9 +22,9 @@ Para ver o projeto em tempo real:
 
 Utilizando apenas **PYTHON** e as bibliotecas:
 
-> - Dash
-> - Dash Bootstrap Components
-> - Plotly
+> - Dash | `pip install dash`
+> - Dash Bootstrap Components | `pip install dash-bootstrap-components`
+> - Plotly | `pip install plotly`
 
 ## 📜 Nota
 Projeto desenvolvido pela Asimov Academy:

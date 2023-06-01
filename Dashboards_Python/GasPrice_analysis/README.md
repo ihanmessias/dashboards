@@ -23,13 +23,13 @@ Para ver o projeto em tempo real:
 
 Utilizando apenas **PYTHON** e as bibliotecas:
 
-> - Dash
-> - Dash-Core-Components
-> - Dash HTML
-> - Dash Bootstrap
-> - Plotly
-> - Pandas
-> - NumPy
+> - Dash | `pip install dash`
+> - Dash-Core-Components | `pip install dash-core-components`
+> - Dash HTML | `pip install dash-html-components`
+> - Dash Bootstrap | `pip install dash-bootstrap-components`
+> - Plotly | `pip install plotly`
+> - Pandas | `pip install pandas`
+> - NumPy | `pip install numpy`
 
 ## 📜 Nota
 Projeto desenvolvido pela Asimov Academy:
