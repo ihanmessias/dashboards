@@ -3,7 +3,7 @@
 </p>
 
 # 🚗 AUTOMOTIVE ANALYSIS
-Este é um projeto em que os arquivos constroem um painel interativo para uma lista de dados do comportamento de Coronavírus no Brasil. O projeto é alimentado por uma base pública no formato csv. Para uma criação do mapa, use uma API do Mapbox.
+Este é um projeto em que os arquivos constroem um painel interativo do comportamento de vendas de carros de 2013 a 2020. O projeto é alimentado por uma base pública no formato xlsx.
 
 ## 🔧 Funções
 
