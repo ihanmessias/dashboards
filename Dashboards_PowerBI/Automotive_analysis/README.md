@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/b77084da-9656-4cdf-81db-51253f4ef464" alt="PROJETO AUTOMOTIVO">
+<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/15083976-8926-4822-8995-53aee9042f0f" alt="PROJETO AUTOMOTIVO">
 </p>
 
 # 🚗 AUTOMOTIVE ANALYSIS
