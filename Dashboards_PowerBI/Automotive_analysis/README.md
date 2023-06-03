@@ -1,35 +1,27 @@
 <p align="center">
-<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/0f8d2afc-4e93-41c3-b667-e566920efa20" alt="PROJETO AUTOMOTIVO">
+<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/b77084da-9656-4cdf-81db-51253f4ef464" alt="PROJETO AUTOMOTIVO">
 </p>
 
-# 🦠 Covid-19 Analysis Dash
+# 🚗 AUTOMOTIVE ANALYSIS
 Este é um projeto em que os arquivos constroem um painel interativo para uma lista de dados do comportamento de Coronavírus no Brasil. O projeto é alimentado por uma base pública no formato csv. Para uma criação do mapa, use uma API do Mapbox.
 
 ## 🔧 Funções
 
-- Analisar o comportamento da Covid-19 no Brasil
-- Obter como informações por registro e dados
-- Navegação por um gráfico em formato de mapa
+- Comportamento utilizando análise temporal.
+- Obter como informações por registro e dados categoricos.
+- Navegação por um gráficos para tomada de decisão.
 
 Para ver o projeto em tempo real:
 
-<a href = "https://covid-19-dash-asimov.herokuapp.com/">
-<img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank">
+<a href = "https://app.powerbi.com/view?r=eyJrIjoiNWIxMDVlOTQtYmU2NS00ZmRlLWJlNDUtYTIyMDI0MzU5ZThlIiwidCI6ImY0ZmUyYzMxLTJlYzgtNGQzOC05YTI5LWUxZjA5YTEyY2I0YyJ9">
+<img src="https://img.shields.io/badge/VICARI-Projeto%20em%20tempo%20real-lightgrey" target="_blank">
 </a> 
 
 
-## 👨‍💻 Tecnologias Utilizadas
-
-Utilizando apenas **PYTHON** e as bibliotecas:
-
-> - Dash
-> - Dash Bootstrap Components
-> - Plotly
-
 ## 📜 Nota
-Projeto desenvolvido pela Asimov Academy:
+Projeto desenvolvido pela Visari:
 
-<a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
+<a href = "https://www.viscari.com.br/"><img src="https://img.shields.io/badge/VICARI-Saiba%20Mais-lightgrey" target="_blank"></a> 
 
 ### 🤝 Suporte/Contato
 
