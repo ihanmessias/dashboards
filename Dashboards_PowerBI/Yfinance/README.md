@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="" alt="PROJETO YFINANCE">
+<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/a7ecc963-402c-49f1-b13f-1b66e5b82411" alt="PROJETO YFINANCE">
 </p>
 
 # 💰 Projeto yfinance usando Python e PowerBI
@@ -13,6 +13,12 @@ Neste projeto, vamos usar a biblioteca yfinance do Python para obter dados de a�
 - Analisar dados obtidos
 - Carregar os dados resultantes para o modelo de dados do PowerBI
 - Criar medidas e gráficos para exibir as informações desejadas no painel
+
+Para ver o projeto em tempo real:
+
+<a href = "https://app.powerbi.com/view?r=eyJrIjoiZGE4Mjk0MTEtYTY2Mi00YWQyLWI0OGEtM2QwMjhlZDRmZTJlIiwidCI6ImY0ZmUyYzMxLTJlYzgtNGQzOC05YTI5LWUxZjA5YTEyY2I0YyJ9">
+<img src="https://img.shields.io/badge/DASHBOARD-Projeto%20em%20tempo%20real-lightgrey" target="_blank">
+</a> 
 
 ## 👨‍💻 Tecnologias Utilizadas
 

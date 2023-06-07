@@ -14,7 +14,7 @@ Este é um projeto em que os arquivos constroem um painel interativo do comporta
 Para ver o projeto em tempo real:
 
 <a href = "https://app.powerbi.com/view?r=eyJrIjoiNWIxMDVlOTQtYmU2NS00ZmRlLWJlNDUtYTIyMDI0MzU5ZThlIiwidCI6ImY0ZmUyYzMxLTJlYzgtNGQzOC05YTI5LWUxZjA5YTEyY2I0YyJ9">
-<img src="https://img.shields.io/badge/VICARI-Projeto%20em%20tempo%20real-lightgrey" target="_blank">
+<img src="https://img.shields.io/badge/DASHBOARD-Projeto%20em%20tempo%20real-lightgrey" target="_blank">
 </a> 
 
 
