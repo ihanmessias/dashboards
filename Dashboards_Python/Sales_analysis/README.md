@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/e2f2aaa2-6be3-41fc-a91e-966393e79528" alt="PROJETO SALES">
+<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/6f58db0d-7b40-40be-96b7-5af18b86a765" alt="PROJETO SALES1">
+</p>
+<img src="https://github.com/mrhowaito/Dashboards/assets/72288211/b85457df-2fc0-41b7-bb75-bf07746cf2c5" alt="PROJETO SALES2">
 </p>
 
 # 🧮 Sales Analysis Dash
