@@ -24,6 +24,7 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 
 > - Dash
 > - Dash-Core-Components
+> - dash_bootstrap_templates
 > - Dash HTML
 > - Dash Bootstrap
 > - Plotly
